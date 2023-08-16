@@ -16,3 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 # nextjs-threads-clone
 
 Packages: Clerk, uploadthing, mongoose, svix, shadcn
+
+TODO:
+
+fix button interactivity for each post.
